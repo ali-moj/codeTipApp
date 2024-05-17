@@ -1,0 +1,7 @@
+{
+  "name": "codetip-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
